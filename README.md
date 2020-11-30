@@ -85,8 +85,7 @@ An Embedded Systems & Hardware Design Engineer who also happens to be a Full-Sta
 <hr>
 
 #### Stats
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=TFotakis.TFotakis) -->
-![Visits Badge](https://badges.pufler.dev/visits/TFotakis/TFotakis?label=Visitors&color=0077B5&style=for-the-badge)
+![visitors](https://img.shields.io/badge/dynamic/json?label=Visitors&color=0077B5&style=for-the-badge&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FTFotakis%2FTFotakis)
 ![Commits Badge](https://badges.pufler.dev/commits/all/TFotakis?label=This%20year's%20commits&color=0077B5&style=for-the-badge)
 ![Repos Badge](https://badges.pufler.dev/repos/TFotakis?&color=0077B5&style=for-the-badge)
 ![Years Badge](https://badges.pufler.dev/years/TFotakis?&label=Years%20active%20user&color=0077B5&style=for-the-badge)
