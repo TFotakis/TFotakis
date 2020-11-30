@@ -41,10 +41,10 @@ An Embedded Systems & Hardware Design Engineer who also happens to be a Full-Sta
 #### Embedded Systems
 ![Raspberry Pi](https://img.shields.io/static/v1?label=&message=Raspberry%20Pi&color=C51A4A&style=for-the-badge&logo=Raspberry-Pi&logoColor=white&maxAge=604800)
 ![Arduino](https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&style=for-the-badge&logo=Arduino&logoColor=white&maxAge=604800)
-![Atmel AVR](https://img.shields.io/static/v1?label=&message=Atmel%20AVR&color=00979D&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
-![8051 Microcontroller](https://img.shields.io/static/v1?label=&message=8051%20Microcontroller&color=00979D&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
-![ESP8266](https://img.shields.io/static/v1?label=&message=ESP8266&color=00979D&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
-![ESP32](https://img.shields.io/static/v1?label=&message=ESP32&color=00979D&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+![Microchip AVR](https://img.shields.io/static/v1?label=&message=Atmel%20AVR&color=EE2A24&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+![8051 Microcontroller](https://img.shields.io/static/v1?label=&message=8051%20Microcontroller&color=EE2A24&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+![Espressif ESP8266](https://img.shields.io/static/v1?label=&message=Espressif%20ESP8266&color=E7352C&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+![Espressif ESP32](https://img.shields.io/static/v1?label=&message=Espressif%20ESP32&color=00979D&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Eagle PCB](https://img.shields.io/static/v1?label=&message=Eagle%20PCB&color=00979D&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 
 #### Web-apps
