@@ -45,7 +45,7 @@ An Embedded Systems & Hardware Design Engineer who also happens to be a Full-Sta
 ![8051 Microcontroller](https://img.shields.io/static/v1?label=&message=8051%20Microcontroller&color=EE2A24&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Espressif ESP8266](https://img.shields.io/static/v1?label=&message=Espressif%20ESP8266&color=E7352C&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Espressif ESP32](https://img.shields.io/static/v1?label=&message=Espressif%20ESP32&color=E7352C&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
-![Eagle PCB](https://img.shields.io/static/v1?label=&message=Eagle%20PCB&color=F1AA3F&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+![Autodesk Eagle](https://img.shields.io/static/v1?label=&message=Autodesk%20Eagle%20PCB&color=F1AA3F&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 
 #### Web-apps
 ![Amazon AWS](https://img.shields.io/static/v1?label=&message=AWS%20Microservices&color=232F3E&style=for-the-badge&logo=amazon-aws&logoColor=white&maxAge=604800&maxAge=604800)
